@@ -3,12 +3,17 @@ body {
   }
   
   h1 {
-    color: rgb(194, 5, 122);
+    color: rgb(230, 13, 147);
+  }
+  .center { 
     text-align: center;
   }
   
-  p {
-    color: rgb(23, 5, 5);
+  .fonte-verde {
+      color: green;
+  }
+  
+  #para {
     font-family: verdana;
     font-size: 20px;
   }
