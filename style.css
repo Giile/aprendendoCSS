@@ -1,18 +1,27 @@
 body {
-    background-color: rgb(245, 200, 218);
+    /*background-color: rgba(245, 200, 218, 0.7);*/
+    background-image: url("fundotela.jpg");
   }
   
   h1 {
-    color: rgb(230, 13, 147);
+    color: rgb(2, 1, 1);
+    background-color: rgb(241, 185, 198);
+    border: 2px solid rgb(233, 131, 148);
   }
   .center { 
     text-align: center;
   }
-  
-  .fonte-verde {
-      color: green;
+
+  /* CLASS */
+  .center {---
+  }
+ 
+  .fonte-rosa {
+   color: black;
+   border-style: dotted;
   }
   
+  /* ID */
   #para {
     font-family: verdana;
     font-size: 20px;
