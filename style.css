@@ -8,19 +8,22 @@ body {
     background-color: rgb(241, 185, 198);
     border: 2px solid rgb(233, 131, 148);
   }
+
+
+  /* CLASS */
   .center { 
     text-align: center;
   }
-
-  /* CLASS */
-  .center {---
-  }
  
   .fonte-rosa {
+    background-color: rgb(241, 185, 198);
    color: black;
-   border-style: dotted;
+   /*border-style: solid;*/
+   border-left-style: solid;
+   border-color: rgb(233, 131, 148);
+   border-width: 5px;
   }
-  
+   
   /* ID */
   #para {
     font-family: verdana;
